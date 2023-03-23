@@ -1,4 +1,6 @@
-<p align="center"><a href="https://raisachin.com.np" target="_blank"><img src="./CodeShila-v1.png" alt="CodeShila" /></a></p>
+<p align="center"><a href="https://raisachin.com.np" target="_blank">
+  <img src="https://raw.githubusercontent.com/codeshila/.github/main/profile/CodeShila-v1.png?raw=true" alt="CodeShila" />
+</a></p>
 
 # About CodeShila
 
