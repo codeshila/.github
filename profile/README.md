@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raisachin.com.np" target="_blank">CodeShila</a></p>
+<p align="center"><a href="https://raisachin.com.np" target="_blank"><img src="./CodeShila-v1.png" alt="CodeShila" /></a></p>
 
 # About CodeShila
 
